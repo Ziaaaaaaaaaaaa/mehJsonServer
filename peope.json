@@ -1,0 +1,45 @@
+{"students" : [
+    {
+        "id" : 1,
+        "first_name" : "Laiquah",
+        "last_name" : "Cotie",
+        "email": "cotielaiquah@gmail.com"
+    },
+    {
+        "id" : 2,
+        "first_name" : "Justin",
+        "last_name" : "Scholtz",
+        "email": "scholtz0929@gmail.com"
+    },
+    {
+        "id" : 3,
+        "first_name" : "Summer",
+        "last_name" : "De Wet",
+        "email": "summerdewet@gmail.com"
+    },
+  {
+        "id" : 4,
+        "first_name" : "Nuraan",
+        "last_name" : "Davids",
+        "email": "nuraansa1@gmail.com"
+    },
+    {
+        "id" : 5,
+        "first_name" : "Kgodisho",
+        "last_name" : "Lebopa",
+        "email": "kgodisholebopa@gmail.com"
+    },
+    {
+        "id" : 6,
+        "first_name" : "Sibusiso",
+        "last_name" : "Dyan",
+        "email": "Sibusisodyan@gmail.com"
+    },
+    {
+        "id" : 7,
+        "first_name" : "Zia",
+        "last_name" : "Khan",
+        "email": "ziakhan29042003@gmail.com"
+    }
+]
+} 
